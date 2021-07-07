@@ -1,0 +1,8 @@
+{
+  "name": "cf-worker",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "numb86 <16703337+numb86@users.noreply.github.com>",
+  "license": "MIT"
+}
